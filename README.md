@@ -1,2 +1,5 @@
 app screenshot
-![launch_screen](https://user-images.githubusercontent.com/67529119/192229204-284c25d7-61a2-4d13-a6a0-08b78b11d340.png)
+.
+.
+.
+<img src="https://user-images.githubusercontent.com/67529119/192229204-284c25d7-61a2-4d13-a6a0-08b78b11d340.png" width="100" height="100"/>
